@@ -1,9 +1,13 @@
 # Portfolio
 <br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74545780/171860996-0636a4f2-7780-4d75-b9f2-9bb01e71a060.png" width="200" alt="profile picture" />
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/74545780/171864870-58c3f6dd-9dcc-47ea-b77e-b999c8d6612e.png" width="200" alt="profile image" />
+  <br>
 </p>
 <br>
+
+
+
 
 ## 🧑‍💻 김다님 | Danim Kim
 안녕하세요. 일상 속 삶의 질 향상에 도움이 되는 IT 서비스를 만들고 싶은 프론트엔드 개발자 김다님입니다.<br>
